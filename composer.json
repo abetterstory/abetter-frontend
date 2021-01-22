@@ -9,16 +9,16 @@
         }
     ],
     "require": {
-		"abetter/component": "^1.0",
-        "abetter/core": "^1.0",
-		"abetter/deploy": "^1.0",
-        "abetter/embed": "^1.0",
-        "abetter/image": "^1.0",
-        "abetter/mockup": "^1.0",
-        "abetter/wp": "^1.0"
+		"abetter/component": "^1.0.11",
+        "abetter/core": "^1.0.16",
+		"abetter/deploy": "^1.0.1",
+        "abetter/embed": "^1.0.10",
+        "abetter/image": "^1.0.17",
+        "abetter/mockup": "^1.0.4",
+        "abetter/wp": "^1.0.12"
 	},
 	"require-dev": {
-        "abetter/debug": "^1.0"
+        "abetter/debug": "^1.0.5"
 	},
 	"autoload": {
 		"psr-4": {
