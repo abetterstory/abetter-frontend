@@ -14,11 +14,8 @@
 		"abetter/deploy": "^1.0.1",
         "abetter/embed": "^1.0.10",
         "abetter/image": "^1.0.17",
-        "abetter/mockup": "^1.0.4",
+        "abetter/mockup": "^1.0.5",
         "abetter/wp": "^1.0.12"
-	},
-	"require-dev": {
-        "abetter/debug": "^1.0.5"
 	},
 	"autoload": {
 		"psr-4": {
