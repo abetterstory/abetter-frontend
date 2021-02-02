@@ -13,7 +13,7 @@
         "abetter/core": "^1.0.17",
 		"abetter/deploy": "^1.0.1",
         "abetter/embed": "^1.0.11",
-        "abetter/image": "^1.0.18",
+        "abetter/image": "^1.0.19",
         "abetter/mockup": "^1.0.5",
         "abetter/wp": "^1.0.14"
 	},
