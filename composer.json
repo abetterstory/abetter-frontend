@@ -15,7 +15,7 @@
         "abetter/embed": "^1.0.12",
         "abetter/image": "^1.0.24",
         "abetter/mockup": "^1.0.5",
-        "abetter/wp": "^1.0.17"
+        "abetter/wp": "^1.0.18"
 	},
 	"autoload": {
 		"psr-4": {
